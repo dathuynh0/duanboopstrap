@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+}
+
+.subscribe {
+  background-image: url(img/subscribe.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+li {
+  list-style-type: none;
+}
